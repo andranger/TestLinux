@@ -1,1 +1,2 @@
 Git txt Test
+Some changes to test local merging
